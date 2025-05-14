@@ -9,6 +9,10 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 #### 出身寒微， 不是耻辱； 能屈能伸， 方为丈夫
+#### Born in humble circumstances is not a disgrace; being able to be humble and resilient is what makes a true man.
+#### 출신이 비천한것은 수치스러운 일이 아니다.굽힐 줄도 펼 줄도 알아야 남편이다
+#### Det är inte synd att komma från en enkel bakgrund; kan böja och sträcka, först då är maken
+#### 出身が寒くて、恥辱ではありません;屈伸するのが夫です
  
  
 #### 🌱 Things I am currently working on: 
