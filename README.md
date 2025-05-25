@@ -8,8 +8,6 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
  
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
-https://47.242.230.7:10321/cgi-bin/luci/?token=5530e6a5fbbc5928ac52bbe89bbe5eab
- 
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Master Degree  
 - Taking online courses about Data Science and Machine Learning 
